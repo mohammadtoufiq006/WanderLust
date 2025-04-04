@@ -1,6 +1,4 @@
-# 🌍 ✈️ WanderLust – Explore the World with Ease  
-
-![WanderLust Banner](https://source.unsplash.com/1600x900/?travel,adventure)  
+# 🌍 ✈️ WanderLust – Explore the World with Ease   
 
 ![GitHub Repo Stars](https://img.shields.io/github/stars/mohammadtoufiq006/WanderLust?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/mohammadtoufiq006/WanderLust?style=social)
@@ -45,7 +43,7 @@
 ---
 
 ## 📩 **Contact**
-👤 **Mohd Toufiq**  
+👤 **Mohammad Toufiq Bagwan**  
 📧 Email: [mohammadtoufiq006@gmail.com](mailto:mohammadtoufiq006@gmail.com)  
 🌐 GitHub: [mohammadtoufiq006](https://github.com/mohammadtoufiq006)  
 🌾 LinkedIn: [Mohammad Toufiq](https://www.linkedin.com/in/mohammad-toufiq-16086b276/?originalSubdomain=in)  
